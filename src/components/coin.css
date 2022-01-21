@@ -1,0 +1,16 @@
+.coin {
+  background: #ccc;
+  min-width: 300px;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px 0px;
+}
+.coin h1 {
+  font-size: 16px;
+}
+.coin h3 {
+  font-size: 14px;
+}
+.coin img {
+  max-width: 100px;
+}
